@@ -1,7 +1,7 @@
-
 //API 1
 //scenario1
 GET http://localhost:3000/todos/?status=TO%20DO
+
 
 ####
 //scenario2
@@ -93,4 +93,4 @@ Content-Type: application/json
 ###
 //Deletes a todo from the todo table based on the todo ID
 //API 5
-DELETE http://localhost:3000/todos/5/
+DELETE http://localhost:3000/todos/2/
